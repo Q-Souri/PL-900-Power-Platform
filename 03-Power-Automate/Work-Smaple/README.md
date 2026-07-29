@@ -134,6 +134,6 @@ This automation helps organisations to:
 
 ## Workflow Preview
 
-The screenshot below shows the Power Automate cloud flow generated with Microsoft Copilot for automatically triaging customer service requests. The workflow classifies incoming requests, creates a Dataverse case, sends Microsoft Teams notifications, and acknowledges the customer automatically.
+The screenshot below shows the customer issue triage automation created using Microsoft Power Automate and Copilot.
 
-![Power Automation Sample](Power-Automation Sample.png) 
+![Power Automation Sample](Power-Automation-Sample.png)
