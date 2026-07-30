@@ -176,3 +176,102 @@ Microsoft Copilot Studio
     ├── Better decision making
     └── Power Platform integration
 ```
+
+# Copilots and Generative AI in Microsoft Power Platform
+
+## What is Generative AI?
+
+Generative AI is a type of artificial intelligence that creates new content—such as text, data models, code, reports, and websites—based on natural language instructions.
+
+Instead of manually building every component, users simply describe what they need, and AI generates a working solution that can be refined further.
+
+---
+
+## Business Value
+
+Generative AI and Copilot help organizations:
+
+- Build solutions faster.
+- Reduce manual work.
+- Improve productivity.
+- Simplify app and workflow development.
+- Make Power Platform accessible to non-developers.
+- Enhance decision-making with AI-generated insights.
+
+---
+
+## Copilot Across Power Platform
+
+### Power Apps
+
+- Generates apps from natural language.
+- Creates Dataverse tables.
+- Builds screens and navigation.
+
+### Power Automate
+
+- Creates workflows from descriptions.
+- Suggests connectors and automation steps.
+- Explains existing flows in plain language.
+
+### Power Pages
+
+- Generates websites and page layouts.
+- Creates forms and Dataverse tables.
+- Produces website content.
+
+### Power BI
+
+- Builds reports and dashboards.
+- Creates charts from natural language.
+- Answers questions about business data.
+
+### Microsoft Dataverse
+
+- Suggests tables and relationships.
+- Designs data models.
+- Organizes imported data.
+
+---
+
+## AI Builder
+
+AI Builder enables users to add AI capabilities without coding.
+
+Common features include:
+
+- Document processing
+- Image recognition
+- Text classification
+- Predictive analytics
+
+Example:
+Automatically extracting information from invoices to eliminate manual data entry.
+
+---
+
+## Responsible AI
+
+Microsoft designs AI to be:
+
+- Fair
+- Reliable
+- Safe
+- Private
+- Inclusive
+- Transparent
+- Accountable
+
+Copilot provides suggestions that should always be reviewed by users before implementation.
+
+---
+
+## Key Benefits
+
+- Faster solution development
+- Low-code AI experience
+- Improved automation
+- Increased productivity
+- Better business insights
+- Secure and responsible AI
+- Seamless integration across Power Platform
