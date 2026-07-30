@@ -75,3 +75,55 @@ Plan Designer can automatically generate:
 - Scalable architecture
 - Reduced development effort
 - Seamless Power Platform integration
+
+# Plan Designer - Mind Map
+
+```text
+Plan Designer
+│
+├── Purpose
+│   ├── AI-powered planning tool
+│   ├── Converts business needs into solutions
+│   └── Uses natural language input
+│
+├── Business Value
+│   ├── Faster solution planning
+│   ├── Reduce manual design
+│   ├── Improve collaboration
+│   ├── Accelerate development
+│   └── Create complete solutions
+│
+├── AI Agents
+│   ├── Solution Agent
+│   │   └── Designs overall architecture
+│   ├── Process Agent
+│   │   └── Maps workflows & automation
+│   ├── Data Agent
+│   │   └── Creates Dataverse data model
+│   └── Experience Agent
+│       └── Designs apps & user experience
+│
+├── Generated Components
+│   ├── Canvas Apps
+│   ├── Model-driven Apps
+│   ├── Power Automate Flows
+│   ├── Copilot Studio Agents
+│   ├── Power Pages Sites
+│   ├── Power BI Reports
+│   └── Dataverse Tables
+│
+├── Workflow
+│   ├── Describe business problem
+│   ├── AI analyzes requirements
+│   ├── Generate solution blueprint
+│   ├── Review & refine
+│   └── Generate working solution
+│
+└── Benefits
+    ├── Low-code development
+    ├── AI-assisted design
+    ├── Better governance
+    ├── Scalable solutions
+    ├── Reduced development time
+    └── Power Platform integration
+```
