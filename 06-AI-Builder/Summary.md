@@ -275,3 +275,90 @@ Copilot provides suggestions that should always be reviewed by users before impl
 - Better business insights
 - Secure and responsible AI
 - Seamless integration across Power Platform
+
+# Connectors in Microsoft Power Platform
+
+## What are Connectors?
+
+Connectors are pre-built integrations that enable **Power Apps**, **Power Automate**, and other Power Platform services to connect with external applications and data sources.
+
+They allow users to read, write, and exchange data between systems without requiring custom API development.
+
+---
+
+## Business Value
+
+Connectors help organizations:
+
+- Integrate multiple business systems.
+- Automate cross-platform workflows.
+- Eliminate manual data transfer.
+- Improve productivity and efficiency.
+- Build connected business solutions with minimal development effort.
+
+---
+
+## How Connectors Work
+
+Each connector connects Power Platform to a specific service and provides:
+
+### Actions
+
+Tasks that an app or flow can perform, such as:
+
+- Create a record
+- Send an email
+- Update data
+- Delete records
+
+### Triggers
+
+Events that automatically start a workflow, such as:
+
+- A new SharePoint item is created.
+- An email is received.
+- A file is uploaded.
+
+Connectors also handle authentication, data formatting, and communication with external services.
+
+---
+
+## Types of Connectors
+
+### Standard Connectors
+
+Included with most Power Platform licenses.
+
+Examples:
+
+- SharePoint
+- Outlook
+- Excel
+- OneDrive
+- Microsoft Teams
+
+### Premium Connectors
+
+Require a premium license.
+
+Examples:
+
+- Salesforce
+- SAP ERP
+- ServiceNow
+- Adobe Sign
+
+### Custom Connectors
+
+Allow organizations to connect to any application or internal system that exposes an API using the OpenAPI standard.
+
+---
+
+## Key Benefits
+
+- Over 1,800 pre-built connectors available.
+- Low-code integration with business applications.
+- Simplifies automation across multiple systems.
+- Supports Microsoft and third-party services.
+- Reduces the need for custom development.
+- Enables scalable and connected business solutions.
