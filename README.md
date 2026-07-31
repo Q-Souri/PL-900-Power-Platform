@@ -45,6 +45,8 @@ Cheat-Sheet
 - Platform: Microsoft Power Platform
 - Learning Method: Official Microsoft Learn + Practical Exercises + Personal Notes
 
+Reference: I have used Microsoft learning page content for all my notes. 
+
 ---
 
 ## Author
