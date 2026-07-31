@@ -33,7 +33,8 @@ It contains:
 04-Dataverse
 05-Power-Pages
 06-AI-Builder
-07-Security
+07-Plan Designer
+08-Module Summary
 Cheat-Sheet
 ```
 
